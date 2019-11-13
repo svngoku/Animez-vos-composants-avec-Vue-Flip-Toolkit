@@ -5,7 +5,8 @@ D'abord implementer avec `ReactJS`, elle est maintenant disponible en `Vuejs`.
 
 ## Note
 
-Le cours à été réaliser par [Grafikart](https://grafikart.fr). L'article er la vidéos sont disponible au lieu en dessous.
+Le cours à été réaliser par [Grafikart](https://grafikart.fr). L'article et la vidéos sont disponible au lien en dessous, et vous y retrouveriez plus d'informations
+sur la librairie `vue-flip-toolkit`.
 
 ## Details
 
