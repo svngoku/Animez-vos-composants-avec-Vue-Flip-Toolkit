@@ -1,7 +1,11 @@
 # Vue Flip Toolkit
-Enveloppez tous les enfants animés avec un seul composant Flipper doté d'un accessoire `flipKey` qui change à chaque fois qu'une animation doit se produire.
 
-Enveloppez les éléments qui doivent être animés avec des composants Flipped ayant un prop `flipId` les correspondant dans les rendus.
+Vue Flip Toolkit est une librairie d'animation basé sur la technique FLIP.
+D'abord implementer avec `ReactJS`, elle est maintenant disponible en `Vuejs`.
+
+## Note
+
+Le cours à été réaliser par [Grafikart](https://grafikart.fr). L'article er la vidéos sont disponible au lieu en dessous.
 
 ## Details
 
